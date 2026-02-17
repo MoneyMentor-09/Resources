@@ -55,7 +55,7 @@ Jira Project Link: **<https://money-mentor.atlassian.net/jira/software/projects/
 
 ✅ Issues closed only after acceptance criteria met
 
-❌ Sprint completed/closed in Jira
+✅ Sprint completed/closed in Jira
 
  
 
