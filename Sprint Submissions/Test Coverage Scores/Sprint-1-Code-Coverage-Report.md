@@ -39,7 +39,7 @@ Baseline sprint — no prior comparison.
 ## 6. Evidence
 
 <!-- - Coverage report: [coverage/index.html](coverage/index.html) -->
-- Link to screenshot of coverage summary: [Testcoverage_screenshot](testcoverage/Testcoveragescreenshot.png)
+- Link to screenshot of coverage summary: [Testcoverage_screenshot](https://github.com/MoneyMentor-09/Resources/blob/main/Sprint%20Submissions/Test%20Coverage%20Scores/Testcoveragescreenshot.png)
 
 ## 7. Statement of Integrity
 
