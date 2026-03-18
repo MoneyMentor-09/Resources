@@ -17,11 +17,13 @@ See attached SonarQube report
 
 ## 4. Coverage Trend
 
-Baseline sprint — no prior comparison for SonarQube.
+Previous sprint issue counts: 29 Total
+
+Current sprint issue counts: 49 Total
 
 ## 5. Weak Areas (Honest Reflection)
 
-- There are 2 Security Hotspots that need to be reviewed for Sprint 3.
+- There are 2 Security Hotspots that need to be reviewed for Sprint 4.
 
 ## 6. Statement of Integrity
 
