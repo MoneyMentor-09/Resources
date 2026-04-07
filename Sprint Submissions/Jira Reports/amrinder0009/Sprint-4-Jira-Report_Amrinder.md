@@ -45,8 +45,8 @@ Sprint 4
 **Estimation & Accuracy**
 |Metric|Value|
 |---|---|
-|Total story points committed|52|
-|Total story points completed|52|
+|Total story points committed|87|
+|Total story points completed|87|
 |Completion %|100%|
 
  
