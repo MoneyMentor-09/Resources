@@ -15,10 +15,6 @@ https://github.com/MoneyMentor-09/React-Native-AndroidApplication
 ---
 
 
-
-
----
-
 ## Date Range
 **First Commit:** May 05, 2026  
 **Last Commit:** May 05, 2026  
